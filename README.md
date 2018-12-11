@@ -1,2 +1,6 @@
 # Python_Intro
-Curso introductorio de Python empleando la plataforma Jupyter
+Curso introductorio de Python empleando la plataforma Jupyter. 
+
+## Contenido
+
+- 
