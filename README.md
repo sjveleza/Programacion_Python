@@ -4,6 +4,8 @@ Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit
 
 ## Contenido
 
+[Presentación e Introducción, Entorno e Instalación, Herramientas: IDE’s (Jupyter, repl.it)Entrada y Salida Básica. Tipos y Variables](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_Presentaci%C3%B3n.ipynb)
+
 <table>
   <tr>
     <th scope="col">Semana</th>
