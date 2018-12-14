@@ -36,7 +36,7 @@ Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit
   <tr>
     <td>04</td>
     <td>Agosto 06 - 10</td>
-    <td>Funciones</td>
+    <td>[Funciones](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/images/Sesion06b_Modulos.ipynb)</td>
     <td> </td>
   </tr>
   <tr>
