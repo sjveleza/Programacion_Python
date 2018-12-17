@@ -20,7 +20,7 @@ Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit
   <tr>
     <td>01</td>
     <td>julio 16 – 20</td>
-    <td>[Presentación e Introducción, Entorno e Instalación, Herramientas: IDE’s (Jupyter, repl.it)Entrada y Salida Básica. Tipos y Variables](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_Presentaci%C3%B3n.ipynb)</td>
+    <td>[Presentación e Introducción, Entorno e Instalación, Herramientas: IDE’s (Jupyter, repl.it)Entrada y Salida Básica. Tipos y Variables](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_Presentaci%C3%B3n.ipynb?raw=true "")</td>
     <td> </td>
   </tr>
  
