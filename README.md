@@ -9,7 +9,7 @@ Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit
 
 |**Semana** | **Fecha**         |**Contenido** |**Actividad Evaluativa**|
 |:-----:|:-------------:|-----------|----------------------|
-|01     |01/21-01/26 |[Presentación e Introducción, Entorno e Instalación, Herramientas: IDE’s (Jupyter, repl.it)Entrada y Salida Básica. Tipos y Variables](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01a_Presentacion.ipynb?raw=true "") |      |
+|01     |01/21-01/26 |[Presentación e Introducción, Entorno e Instalación, Herramientas: IDE’s (Jupyter, repl.it)Entrada y Salida Básica. Tipos y Variables](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01a_Presentacion.ipynb? "Sesión01a") |      |
 |02|01/28-02/01|Condiciones y Lógica Boolean||
 |03|02/04-02/08|Ciclos||
 |04|02/11-02/15|Funciones||
