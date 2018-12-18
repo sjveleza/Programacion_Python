@@ -2,9 +2,6 @@
 
 Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit.edu.co/ "EAFIT"), soportado en el lenguaje de programación [Python](https://www.python.org/ "Python") y empleando la plataforma de trabajo [Jupyter](http://jupyter.org/ "Jupyter"). 
 
-[modulos](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/images/Sesion06b_Modulos.ipynb "Modulos")
-
-
 ## Contenido
 
 |**Semana** | **Fecha**         |**Contenido** |**Actividad Evaluativa**|
