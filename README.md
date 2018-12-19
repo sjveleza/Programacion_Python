@@ -1,6 +1,6 @@
 # FUNDAMENTOS DE PROGRAMACIÓN
 
-Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit.edu.co/ "EAFIT"), soportado en el lenguaje de programación [Python](https://www.python.org/ "Python") y empleando la plataforma de trabajo [Jupyter](http://jupyter.org/ "Jupyter"). 
+Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit.edu.co/ "EAFIT"), soportado en el lenguaje de programación [Python](https://www.python.org/ "Python") y empleando la plataforma de trabajo [Jupyter Notebook](http://jupyter.org/ "Jupyter Notebook"). 
 
 ## Contenido
 
