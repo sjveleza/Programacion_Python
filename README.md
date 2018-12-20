@@ -7,7 +7,7 @@ Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit
 |**Semana** | **Fecha**         |**Contenido** |**Actividad Evaluativa**|
 |:-----:|:-------------:|-----------|----------------------|
 |01     |01/21-01/26 |[Presentación del curso](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_00_Presentacion.ipynb "Sesión01: Presentación del Curso"). Entorno e Instalación, Herramientas: IDE’s ([Jupyter](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_01_BreveIntro_a_Jupyter.ipynb "Breve introducción al Jupyter"), repl.it). [Introducción](https://github.com/carlosalvarezh/FundamentosProgramacion_U_EAFIT/blob/master/Sesion01_02_introduccion.ipynb)|      |
-|02|01/28-02/01|[Entrada y Salida Básica, Tipos y Variables, Lógica Boolean](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion02_IO_basico_Variables_LogicaBooleana.ipynb)||
+|02|01/28-02/01|[Entrada y Salida Básica, Tipos y Variables, Lógica Boolean](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion02_IO_basico_Variables_LogicaBooleana.ipynb "Sesion02_IO_Basico") ||
 |03|02/04-02/08|Ciclos||
 |04|02/11-02/15|Funciones||
 |05|02/18-02/22|I/O-02a: Manipulación de archivos|Taller 01|
