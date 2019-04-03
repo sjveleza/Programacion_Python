@@ -16,10 +16,10 @@ Curso de Fundamentos de Programación en la Universidad [EAFIT](http://www.eafit
 |08|03/11-03/15|[Tuplas, Conjuntos (sets), Diccionarios](https://github.com/carlosalvarezh/Programacion_Python/blob/master/Sesion07_EstructurasDatos.ipynb)||
 |09|03/18-03/22|Algoritmos 1: Búsqueda y Ordenamiento||
 |10|03/25-03/29|Algoritmos 2: Búsqueda y Ordenamiento|Lunes festivo|
-|11|04/01-04/05|Ecosistema Python: Bibliotecas Visualización (Matplotlib)|Taller 03 (20%)|
-|12|04/08-04/12|Ecosistema Python: Bibliotecas Visualización de Información (Pandas)||
+|11|04/01-04/05|Ecosistema Python: Bibliotecas científicas (Numpy)|Taller 03 (20%)|
+|12|04/08-04/12|Ecosistema Python: Bibliotecas Visualización (Matplotlib)||
 |--|04/15-04/19|Semana Santa||
-|13|04/22-04/26|Ecosistema Python: Bibliotecas científicas (Numpy)||
+|13|04/22-04/26|Ecosistema Python: Bibliotecas Visualización de Información (Pandas)||
 |14|04/29-05/03|Programación Orientada a Objetos (POO): Clases, Objetos, Instancias, Herencia, Constructores (Init)||
 |15|05/06-05/10|Programación Orientada a Objetos (POO): Módulos, Bibliotecas|Taller 04 (20%)|
 |16|05/13-05/17|Cierre: Integración de temas vistos en el curso||
